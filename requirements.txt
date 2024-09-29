@@ -1,0 +1,6 @@
+fastapi==0.95.2
+httpx==0.24.1
+redis==5.0.0
+beautifulsoup4==4.12.0
+aiofiles==0.8.0
+requests==2.31.0
